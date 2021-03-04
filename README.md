@@ -3,29 +3,10 @@ Resume
 
 A simple script to create a pdf version of my resume from markdown and css.
 
-To create your own resume, [fork](https://github.com/johncadengo/Resume/fork) and edit the markdown file under `src/md`.
+The repo is based on repo '[johncadengo/Resume](https://github.com/johncadengo/Resume).' 
 
-Outputs html and pdf to the `build` folder. Check out my [resume](https://github.com/johncadengo/Resume/raw/master/build/pdf/john-cadengo.pdf) below,
+I have made several changes to the original design: 
+- create a modified css file to get a slightly different layout
+- add a jupyter notebook file so that the user can use notebook to generate their resume
+- change the pdf creator to 'weasyprint' which does not depend on other packages. Thus, the requirements.txt file has changed. 
 
-[![My resume](https://github.com/johncadengo/Resume/raw/master/build/pdf/john-cadengo.pdf)](https://github.com/johncadengo/Resume/raw/master/build/pdf/john-cadengo.pdf)
-
-### Additional Requirements
-
-Install `wkhtmltopdf` version 0.9.9. Any version after [hangs](http://stackoverflow.com/a/14043085) when run from the command-line.
-
-Uninstall if you already have a later version,
-
-    $ brew uninstall wkhtmltopdf
-
-Install wkhtmltopdf version 0.9.9,
-
-    $ brew install https://raw.github.com/mxcl/homebrew/6e2d550cf4961129a790bfb0973f8e88704f439d/Library/Formula/wkhtmltopdf.rb
-
-### Usage
-
-    $ python resume.py
-
-### Roadmap
-
-* Make into a web app with side by side markdown preview
-* Add different css styles with options to interchange

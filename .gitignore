@@ -1,4 +1,8 @@
 *.pyc
 ignore.md
 .ipynb_checkpoints
+<<<<<<< HEAD
 .gitignore
+=======
+.gitignore
+>>>>>>> 9789378300cee03d0f4c6d4b30b01faad652fc48
