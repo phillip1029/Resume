@@ -1,2 +1,4 @@
 *.pyc
 ignore.md
+.ipynb_checkpoints
+.gitignore
