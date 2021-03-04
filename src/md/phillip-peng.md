@@ -31,7 +31,7 @@ Work Experience
 - Credited with developing the first in-house predictive model to identify students at risk of attrition; enhanced the solution into an early warning system of student attrition risk.<br>
 - Expertly mine unstructured ‘big data’ elements including social media usage for marketing, retention and regulatory compliance.<br>
 - Provide comprehensive support for regulatory reporting and analysis, customer lifetime value analysis, revenue reports/revenue optimization and campaign analyses.<br>
-- Direct the efforts of a team of two other analysts in the preparation and presentation of analytical solutions to the senior management team.<br>
+- Direct the efforts of a team of data scientists and analysts in the preparation and presentation of analytical solutions to the senior management team.<br>
 
 **Merkle Direct Marketing**__*|*__Columbia, MD <br>
 *Sr. Statistician*, February 2008 - August 2009 <br>
